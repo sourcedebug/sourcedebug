@@ -2,7 +2,8 @@ SourceDebug is a fast powerful project-oriented programming editor, code browser
 SourceDebug has built-in dynamic analysis for C/C++, Objective-C, and more.
 SourceDebug can debug application with source code in different locations.
 
-Key Benefits
+Key Benefits:
+
 Help to understand an existing code base.
 Debug application with source code in different location (seperate source debug).
 Offline debug application for code analysis.
